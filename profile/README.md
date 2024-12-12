@@ -12,7 +12,7 @@ Epistemic Me provides developers with tools and frameworks for building AI model
 
 #### 🖥️ Server
 
-REST API server for belief system management and AI model integration.
+gRPC API server for belief system management and AI model integration.
 
 - [Server](https://github.com/Epistemic-Me-Org/Server)
 - Belief system operations
