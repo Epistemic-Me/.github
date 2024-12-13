@@ -14,7 +14,7 @@ Epistemic Me provides developers with tools and frameworks for building AI model
 
 gRPC API server for belief system management and AI model integration.
 
-- [Server](https://github.com/Epistemic-Me-Org/Server)
+- [Server](https://github.com/Epistemic-Me/Server)
 - Belief system operations
 - Dialectic processing
 - Predictive processing framework
@@ -23,7 +23,7 @@ gRPC API server for belief system management and AI model integration.
 
 Reference implementations and demonstration applications.
 
-- [Apps](https://github.com/Epistemic-Me-Org/Apps)
+- [Apps](https://github.com/Epistemic-Me/Apps)
 - Self-model visualizations
 - Belief system interactions
 - Dialectic interfaces
@@ -32,7 +32,7 @@ Reference implementations and demonstration applications.
 
 Service definitions for belief system and dialectic operations.
 
-- [Proto](https://github.com/Epistemic-Me-Org/Proto)
+- [Proto](https://github.com/Epistemic-Me/Proto)
 - Standardized message formats
 - Service interfaces
 - Cross-platform compatibility
@@ -41,7 +41,7 @@ Service definitions for belief system and dialectic operations.
 
 #### 📚 Documentation
 
-- [Docs](https://github.com/Epistemic-Me-Org/Docs)
+- [Docs](https://github.com/Epistemic-Me/Docs)
 - Philosophical foundations
 - API references
 - Integration guides
@@ -51,7 +51,7 @@ Service definitions for belief system and dialectic operations.
 
 Official Python toolkit for building AI models of self:
 
-- [Python-SDK](https://github.com/Epistemic-Me-Org/Python-SDK)
+- [Python-SDK](https://github.com/Epistemic-Me/Python-SDK)
 - Self-model creation and management
 - Belief system operations
 - Dialectic processing
@@ -60,7 +60,7 @@ Official Python toolkit for building AI models of self:
 
 Official TypeScript/JavaScript toolkit:
 
-- [Typescript-SDK](https://github.com/Epistemic-Me-Org/Typescript-SDK)
+- [Typescript-SDK](https://github.com/Epistemic-Me/Typescript-SDK)
 - Frontend integrations
 - Real-time dialectic processing
 - Belief system visualization
@@ -83,12 +83,12 @@ Opening the door to any contributor who has a philosophy of how to enact change.
 ## Getting Started
 
 1. **Explore Our Philosophy**:
-   - Read our [Introduction](https://github.com/Epistemic-Me-Org/Docs/introduction.mdx)
-   - Understand our [Core Concepts](https://github.com/Epistemic-Me-Org/Docs/concepts/overview.mdx)
+   - Read our [Introduction](https://github.com/Epistemic-Me/Docs/introduction.mdx)
+   - Understand our [Core Concepts](https://github.com/Epistemic-Me/Docs/concepts/overview.mdx)
 
 2. **Choose Your SDK**:
-   - [Python SDK](https://github.com/Epistemic-Me-Org/Python-SDK) for backend development
-   - [TypeScript SDK](https://github.com/Epistemic-Me-Org/Typescript-SDK) for frontend applications
+   - [Python SDK](https://github.com/Epistemic-Me/Python-SDK) for backend development
+   - [TypeScript SDK](https://github.com/Epistemic-Me/Typescript-SDK) for frontend applications
 
 3. **Start Building**:
    - Create your first self-model
@@ -108,9 +108,9 @@ Please check individual repository contributing guidelines.
 
 ## Community
 
-- 💬 [Discussions](https://github.com/orgs/Epistemic-Me-Org/discussions)
-- 🐛 [Issues](https://github.com/Epistemic-Me-Org/Server/issues)
-- 📫 [Contact](mailto:contact@epistemic.me)
+- 💬 [Discussions](https://github.com/orgs/Epistemic-Me/discussions)
+- 🐛 [Issues](https://github.com/Epistemic-Me/Server/issues)
+- 📫 [Contact](mailto:contact@epistemicme.ai)
 
 ## License
 
