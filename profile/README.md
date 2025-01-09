@@ -69,8 +69,8 @@ Official TypeScript/JavaScript toolkit:
 
 Opening the door to any contributor who has a philosophy of how to enact change.
 
-- [Dialectic Strategies](https://github.com/Epistemic-Me/Dialectic-Strategies/tree/main) that enable anyone to write a "plug-in" to Epistemic Me. This includes philosophers, scientists, helath practioners, and more.
-- [Tools](https://github.com/Epistemic-Me/Epistemic-CLI) to generate Dialectic Strategies based off of past work like Blogs, Podcasts, etc.
+- [Philosophies](https://github.com/Epistemic-Me/Philosophies/tree/main) that enable anyone to write a "plug-in" to Epistemic Me. This includes philosophers, scientists, helath practioners, and more.
+- Use CLI to generate Philosophies based off of past work like Blogs, Podcasts, etc.
 
 ## Key Features
 
